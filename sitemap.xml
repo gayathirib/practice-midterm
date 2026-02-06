@@ -7,6 +7,21 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/aquarium/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/beach-picnic/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/outdoor-dinner/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/
         </loc>
     </url>
